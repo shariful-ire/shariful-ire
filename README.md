@@ -84,7 +84,7 @@ Tech Stack
 <div align="center">
 
 <h2 style="background-color:#f1640d;color:#f9efdf;padding:6px 12px;border:3px solid gray;border-radius:6px;display:inline-block;border-top-left-radius:30px;border-bottom-right-radius:30px;">
-📊 GitHub Stats
+GitHub Stats
 </h2>
 
 </div>
@@ -103,12 +103,12 @@ Tech Stack
 
 </p>
 
----
+
 
 <div align="center">
 
 <h2 style="background-color:#f1640d;color:#f9efdf;padding:6px 12px;border:3px solid gray;border-radius:6px;display:inline-block;border-top-left-radius:30px;border-bottom-right-radius:30px;">
-🚀 Featured Projects
+Featured Projects
 </h2>
 
 </div>
