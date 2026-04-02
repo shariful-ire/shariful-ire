@@ -80,7 +80,6 @@ Tech Stack
 </p>
 
 
-
 <div align="center">
 
 <h2 style="background-color:#f1640d;color:#f9efdf;padding:6px 12px;border:3px solid gray;border-radius:6px;display:inline-block;border-top-left-radius:30px;border-bottom-right-radius:30px;">
@@ -89,18 +88,21 @@ GitHub Stats
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shariful-ire&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-ire&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" width="400"/>
-</p>
+<!-- Container div for responsive layout -->
+<div style="display:flex; flex-wrap: wrap; justify-content: center; gap:10px;">
 
-<p align="center">
+  <!-- First image -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shariful-ire&show_icons=true&theme=radical" style="flex:1 1 400px; max-width:400px; height:170px;" />
 
-<img src="https://streak-stats.demolab.com?user=shariful-ire&theme=tokyonight&hide_border=true" width="400">
+  <!-- Second image -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shariful-ire&layout=compact&theme=radical&langs_count=5" style="flex:1 1 400px; max-width:400px; height:170px;" />
 
-</p>
+</div>
 
-
+<!-- Third image (streak) -->
+<div align="center" style="margin-top:10px;">
+  <img src="https://streak-stats.demolab.com?user=shariful-ire&theme=tokyonight&hide_border=true" style="width:400px; height:170px;" />
+</div>
 
 <div align="center">
 
