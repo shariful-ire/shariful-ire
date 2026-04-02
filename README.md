@@ -91,9 +91,8 @@ GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shariful-ire&show_icons=true&theme=tokyonight&hide_border=true" width="400">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-ire&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=shariful-ire&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariful-ire&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="400"/>
 
 </p>
 
